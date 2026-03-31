@@ -1,15 +1,23 @@
-#SIS Sales Dashboard
+# SIS Sales Dashboard
 
-##Introduction
-SIS stands for Scarlett's In Stitches, a brand that I created at the end of 2020. I sell crochet earrings that I handmake on the e-commerce platform, Etsy. The data set is my own, containing sales and geographical information of individual orders. 
+## Introduction
+Scarlett's In Stitches (SIS) is a small business I created near the end of 2020, specialising in colourful crochet earrings, which I handmake and sell on the e-commerce platform, Etsy. The dataset used for this project contains real sales and geographical information from my individual orders.
 
-I wanted to determine weak areas and opportunities to grow my sales by creating a sales dashboard where I can view the most important parts of the data set altogether, seeing which factors influence each other.
+This dashboard aims to analyse my sales performance and determine weaker areas where there may be growth opportunities. By bringing the most important metrics on one page, such as product type and customer location, I can explore how different factors influence overall revenue and demand.
 
-###Business Questions
-• What is the best-selling item?
-• Which products should be prioritised for marketing strategies?
-• As someone selling colourful earrings with lots of floral designs, how does revenue change over time and are there identifiable seasonal changes?
-• Which UK region contributes most to my sales?
-• Which hardware types perform best?
-• How do UK sales compare to international sales?
+#### Business Questions
+• What is the best-selling item, and how does product performance vary across listings? <br/>
+• Which products should be prioritised for marketing strategies? <br/>
+• How does revenue change over time, and are there identifiable seasonal patterns linked to my colourful, floral designs?<br/>
+• Which UK regions contribute most to overall revenue? <br/>
+• Which hardware types (e.g., hoops, hooks) perform best? <br/>
+• How do UK sales compare to international sales? <br/>
 
+#### Tools 
+Excel was used for data cleaning, transformation, visualisation, and analysis.
+
+#### The Dataset
+The dataset comes directly from my Etsy shop, where sellers can CSV files containing order summaries. For privacy reasons, the raw dataset has not been included to protect customer details.
+ ## Preparing the Data
+
+ 
