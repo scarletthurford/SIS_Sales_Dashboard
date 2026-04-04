@@ -46,16 +46,19 @@ After the dataset had been cleaned and the region information was added, it was 
 ### Building the Dashboard
 To build the dashboard, I used Excel’s PivotTables and PivotCharts to summarise the cleaned dataset, then added slicers for product name, hardware type, and country to make the dashboard interactive. I also connected the slicers to the relevant PivotCharts to ensure the visuals updated together. 
 
-A timeline was also added to allow users explore trends across different months and years. The visuals were arranged on a single page to provide a clear overview of sales performance and to support answering the business questions.
+A timeline was also added to allow users explore trends across different months and years. The visuals were arranged on a single page to provide a clear overview of sales performance and to support answering the business questions. The final dashboard can be seen in Figure 1.
 
-
+<p align="center">
+  <img src="Images/Final_Dashboard.png" alt="Final Dashboard" width="70%">
+  <br>
+  <strong>Figure 1: Final SIS Sales Dashboard</strong>
+</p>
 
 ### Answering the Business Questions
 #### 1. What is the best-selling item, and how does product performance vary across listings?
+From the dashboard, the best‑selling item is the <strong>“Smiley & Sad Daisy Crochet Earrings”</strong>, which consistently outperforms all other listings. This trend holds across every country with more than one sale, including both the UK and the US. Across all regions combined, this single product accounts for over half of the shop’s total revenue, making it the clear driver of overall sales performance (Figure 2).
 
-
-
-
+A similar product to the best-selling item is the "Rainbow Flower Smileys", which also features bright colours and smiley-face motifs (see Figure 4 for a comparison). Given the visual similarities, you might expect both designs to perform similarly. However, the data shows a striking preference for the Smiley & Sad Daisy Pair, which has sold over eight times more to the Rainbow Flower Smileys. This difference could be as a result of several factors. The contrast between the smiley and sad faces creates a more expressive design, and the simpler yellow-and-white colour pallet may appeal to customers who want something more versatile. I believe that the combination of these elements make the Smiley & Sad Daisy earrings feel more distinctive, contributing to their higher demand.
 
 
 
