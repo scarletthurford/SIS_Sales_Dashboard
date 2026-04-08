@@ -149,7 +149,7 @@ Here, I revisit my business questions and share my business recommendations base
 4. Which hardware types (e.g., hoops, hooks) perform best? <br/>
 5. How do UK sales compare to international sales? <br/>
 
-## Recommendations 
+### Recommendations 
 
 •  Create more smiley/sad products, introducing new colours, shapes and sizes, as these designs performed the best <br/>
 •  Revisit the design of the Crochet Sunflower Earrings, which showed the lowest sales <br/>
